@@ -1,4 +1,5 @@
 # AzerothCore-RegistrationWeb
+Our server: Azeroth.cl (Official LATAM World Server) is happy to release this content.
 A registration web coded in PHP (compatible with SRP6) and with AzerothCore.
 
 
