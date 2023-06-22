@@ -1,5 +1,5 @@
 # AzerothCore-RegistrationWeb
-A registration web coded in PHP (compatible with SRPC6) and with AzerothCore.
+A registration web coded in PHP (compatible with SRP6) and with AzerothCore.
 
 
 # Simple Register Page for TrinityCore/AzerothCore
