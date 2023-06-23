@@ -1,4 +1,4 @@
-<?php
+<?php show_source(__FILE__);
 // MySQL connection data
 $dbhost = "IP_FOR_YOUR_DATABASE";
 $dbuser = "USER_FOR_DATABASE (Default: root)";
